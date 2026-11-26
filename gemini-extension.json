@@ -1,0 +1,10 @@
+{
+  "name": "swarm",
+  "version": "0.1.0",
+  "description": "Swarm connects Gemini CLI to shared project knowledge, Tasks, Artifacts, and handoffs.",
+  "mcpServers": {
+    "swarm": {
+      "httpUrl": "https://api.swarm.services/mcp"
+    }
+  }
+}
